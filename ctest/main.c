@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define N 10000000
+#define N 100000000
 double x[N],y[N];
 int main(){
     int i;
